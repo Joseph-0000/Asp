@@ -1,0 +1,6 @@
+Received data: Id = 123, Name = John Doe
+Received data: Id = 123, Name = John Doe
+Received data: Id = 563, Name = Shrek
+Received data: Id = 261, Name = Fiona
+Received data: Id = 728, Name = Donkey
+Received data: Id = 523, Name = Pinocchio
